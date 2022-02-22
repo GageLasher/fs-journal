@@ -12,6 +12,8 @@ let staff = {
   age: 26,
   job: "Code Monkey"
   }
+
+  ss
 let property = 'name'
 ```
 return property
